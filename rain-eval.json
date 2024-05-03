@@ -1,0 +1,50 @@
+{
+  "title": "Proposal for an Efficient Rainwater Harvesting System",
+  "principles": {
+    "interdependence": [
+      {
+        "score": 4,
+        "empowerment": 4,
+        "equitability": 4,
+        "synergy": 5,
+        "excerpts": "The use of local suppliers and community training sessions.",
+        "affirm": "Promotes self-sufficiency and enhances community involvement.",
+        "concerns": "Could increase community-led initiatives in decision-making."
+      }
+    ],
+    "stewardship": [
+      {
+        "score": 4,
+        "sustainability": 5,
+        "harmony_w_nature": 4,
+        "generativity": 4,
+        "excerpts": "Installation of first flush diverters and large-capacity storage tanks.",
+        "affirm": "Strong commitment to sustainability through resource efficiency.",
+        "concerns": "Lacks detailed budget breakdowns for clearer economic assessment."
+      }
+    ],
+    "sacredness_of_nature": [
+      {
+        "score": 5,
+        "ecospirituality": 5,
+        "interconnectedness": 5,
+        "consent": 4,
+        "excerpts": "Reduces reliance on external water resources and uses local materials.",
+        "affirm": "Significant contribution to environmental conservation and local resource use.",
+        "concerns": "Could enhance direct measures to protect local biodiversity during installation."
+      }
+    ],
+    "curious_realism": [
+      {
+        "score": 4,
+        "experimentation": 3,
+        "documentation": 4,
+        "generativity": 5,
+        "excerpts": "Utilizes proven technologies with a clear and achievable implementation plan.",
+        "affirm": "Grounded and practical, with a feasibility study for optimal setup.",
+        "concerns": "More innovative approaches could be explored to enhance system efficiency."
+      }
+    ]
+  },
+  "additional_comments": "This proposal demonstrates a strong alignment with the community's values of sustainability and practical solutions. More detailed financial projections and increased community participation could further strengthen the proposal. The use of local materials and efforts to reduce the carbon footprint are especially commendable."
+}
