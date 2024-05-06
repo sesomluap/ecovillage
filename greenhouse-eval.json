@@ -1,0 +1,50 @@
+{
+  "title": "Community Greenhouse",
+  "principles": {
+    "interdependence": [
+      {
+        "score": 5,
+        "empowerment": 5,
+        "equitability": 5,
+        "synergy": 5,
+        "excerpts": "Encourages community involvement and collaboration through shared responsibilities in the greenhouse.",
+        "affirm": "Promotes strong community bonds and collective responsibility in food production and educational activities.",
+        "concerns": "Needs to address how responsibilities are delegated and managed to avoid over-reliance on a few individuals."
+      }
+    ],
+    "stewardship": [
+      {
+        "score": 4,
+        "sustainability": 5,
+        "harmony_w_nature": 4,
+        "generativity": 4,
+        "excerpts": "Locally grows more food, reducing carbon footprint and enhancing the ecovillage's self-reliance.",
+        "affirm": "Strengthens local food systems and reduces environmental impact through sustainable agricultural practices.",
+        "concerns": "Could benefit from more detailed plans on how to minimize resource use, such as water and energy, within the greenhouse operations."
+      }
+    ],
+    "sacredness_of_nature": [
+      {
+        "score": 4,
+        "ecospirituality": 4,
+        "interconnectedness": 4,
+        "consent": 4,
+        "excerpts": "Serves as a hub for educating the community about ecological balance and sustainable farming.",
+        "affirm": "Fosters a deep connection with nature through practical and educational engagement with sustainable agriculture.",
+        "concerns": "The proposal could further embrace biodynamic or permaculture principles to enhance its alignment with natural systems."
+      }
+    ],
+    "curious_realism": [
+      {
+        "score": 4,
+        "experimentation": 4,
+        "documentation": 4,
+        "generativity": 4,
+        "excerpts": "Seeks partnerships with schools and utilizes volunteer labor, showing a practical approach to resource management and educational engagement.",
+        "affirm": "Effectively plans for financial sustainability and community involvement in both construction and operation phases.",
+        "concerns": "More detailed analysis of long-term operational costs and their impact on the community budget would enhance the proposal."
+      }
+    ]
+  },
+  "additional_comments": "Elayne's proposal for a community greenhouse is a well-thought-out initiative that aligns with the community's values of sustainability, education, and interdependence. The proposal effectively utilizes the greenhouse not just as a means to extend the growing season, but also as a center for community education and engagement. Consideration of more environmentally low-impact technologies and practices could further strengthen the proposal."
+}
